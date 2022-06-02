@@ -28,8 +28,15 @@
 </svelte:head>
 
 <PageLayout title="Welcome!" image="IMG_2049.jpg">
-	<center> <h3>Our Daily Bread is a soup kitchen serving the greater York PA area</h3></center>
+	<h2>What We Do</h2>
+	<p>
+		Our Daily Bread Soup Kitchen serves meals to the residents of York, Pennsylvania. We are a
+		small, family-run organization that relies on donations of food and time from individuals and
+		businesses around York County. We serve breakfast and lunch, Monday through Friday. We make it a
+		point of not discriminating against anyone who comes in to eat; all are welcome to a hot meal!
+	</p>
 
+	<h2>Gallery</h2>
 	<svelte:component this={Carousel} bind:this={carousel} class="carousel" autoplay>
 		{#each ['IMG_2049.jpg', 'ODBVolunteer7-1.jpeg', 'IMG_1952.jpg', 'IMG_1962.jpg', 'IMG_1967.jpg', '2022-06-02 13.08.57.jpg', '2022-06-02 13.09.02.jpg', 'IMG_1987.jpg', 'IMG_1990.jpg', 'IMG_1999.jpg'] as image}
 			<img src={'images/' + image} alt="" class="carouselImg" />
