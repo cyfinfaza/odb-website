@@ -6,6 +6,7 @@
 				<p>📧 <a href="mailto:ourdailybreadyork@gmail.com">ourdailybreadyork@gmail.com</a></p>
 				<p>📞 <a href="tel:+1 717-848-1674">717-848-1674</a></p>
 				<p><a href="https://facebook.com/ourdailybread/">facebook.com/ourdailybread</a></p>
+				<p>331 S George St, York, PA 17401</p>
 			</div>
 		</div>
 		<div style="text-align: right;">

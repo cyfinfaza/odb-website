@@ -17,8 +17,9 @@
 	<div class="headerLinks">
 		<a href="/">Home</a>
 		<a href="/about">About</a>
-		<a href="/contact&directions">Directions &amp; Contact</a>
-		<a style="background-color: var(--accent-bg)" href="/donate&volunteer">Donate &amp; Volunteer</a
+		<a href="/contact-and-directions">Directions &amp; Contact</a>
+		<a style="background-color: var(--accent-bg)" href="/donate-and-volunteer"
+			>Donate &amp; Volunteer</a
 		>
 	</div>
 </div>

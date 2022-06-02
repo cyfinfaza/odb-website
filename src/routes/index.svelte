@@ -23,6 +23,10 @@
 	}, 2000);
 </script>
 
+<svelte:head>
+	<title>Our Daily Bread</title>
+</svelte:head>
+
 <PageLayout title="Welcome!" image="IMG_2049.jpg">
 	<center> <h3>Our Daily Bread is a soup kitchen serving the greater York PA area</h3></center>
 

@@ -2,6 +2,10 @@
 	import PageLayout from '../components/PageLayout.svelte';
 </script>
 
+<svelte:head>
+	<title>Contact & Directions | Our Daily Bread</title>
+</svelte:head>
+
 <PageLayout title="Contact & Directions" image="IMG_1967.jpg">
 	<h2>Contact Information</h2>
 	<p>

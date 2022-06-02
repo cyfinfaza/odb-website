@@ -2,6 +2,10 @@
 	import PageLayout from '../components/PageLayout.svelte';
 </script>
 
+<svelte:head>
+	<title>Donate or Volunteer | Our Daily Bread</title>
+</svelte:head>
+
 <PageLayout title="Donate or Volunteer" image="IMG_1967.jpg">
 	<h2>Volunteering</h2>
 	<p>If interested in volunteering, reach out to us!</p>
