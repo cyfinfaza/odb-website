@@ -27,7 +27,7 @@
 	<title>Our Daily Bread</title>
 </svelte:head>
 
-<PageLayout title="Welcome!" image="IMG_2049.jpg">
+<PageLayout title="Welcome!" image="IMG-6620.jpeg">
 	<h2>What We Do</h2>
 	<p>
 		Our Daily Bread Soup Kitchen serves meals to the residents of York, Pennsylvania. We are a
