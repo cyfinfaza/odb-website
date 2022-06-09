@@ -60,7 +60,7 @@
 		margin: 0;
 	}
 	.logo {
-		height: 72px;
+		height: 80px;
 		object-fit: contain;
 	}
 	.headerLinks {

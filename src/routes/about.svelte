@@ -10,7 +10,7 @@
 	<h2>Our Mission</h2>
 	<p>
 		Our Daily Bread was established in 1983 by the nine Catholic churches of York County, in
-		conjunction with thelocal Catholic Charities. From the very beginning it was the intention of
+		conjunction with the local Catholic Charities. From the very beginning it was the intention of
 		the founding group lo establish the program on an ecumenical basis and involve as many Jewish
 		and Protestant congregations as well as the Catholic churches. Now more than 60 church and civic
 		groups have been recruited to participate in supplying and serving the hot casseroles of food
@@ -18,7 +18,7 @@
 		Our Daily Bread financially.
 	</p>
 	<p>
-		Our Daily Bread Soup Kitchen became a reality on September 13, 1983. That day, 1 2 guests came
+		Our Daily Bread Soup Kitchen became a reality on September 13, 1983. That day, 12 guests came
 		to the basement of Cristo Salvador Church, 235 East South Street, York, Pennsylvania, to enjoy a
 		nutritious hot meal served by Paula Moyer Koch, the Manager, and volunteers from a local church.
 		Within a period of three months, the average daily number of people served rose to 107, and 30
@@ -67,8 +67,10 @@
 		<li>St. Andrew's Episcopal Church</li>
 		<li>Sl. John's Episcopal Church</li>
 		<li>Advent Lutheran Church</li>
-		<li>Christ Lutheran Church (Dallastown) Christ Lutheran Church (York)</li>
-		<li>Christ Lutheran Church (Manchester) Good Shepherd Lutheran Church</li>
+		<li>Christ Lutheran Church (Dallastown) </li>
+		<li>Christ Lutheran Church (York)</li>
+		<li>Christ Lutheran Church (Manchester) </li>
+		<li>Good Shepherd Lutheran Church</li>
 		<li>Grace Lutheran Church</li>
 		<li>St. James' Lutheran Church</li>
 		<li>St. Paul Lutheran Church</li>

@@ -6,13 +6,13 @@
 	<title>Contact & Directions | Our Daily Bread</title>
 </svelte:head>
 
-<PageLayout title="Contact & Directions" image="IMG_1967.jpg">
+<PageLayout title="Contact & Directions" image="IMG_1990.jpg">
 	<h2>Contact Information</h2>
 	<p>
-		Email: <a href="mailto:ourdailybreadyork@gmail.com">ourdailybreadyork@gmail.com</a>
+		Email: <a href="mailto:ourdailybreadyork@gmail.com" >ourdailybreadyork@gmail.com</a>
 	</p>
 	<p>
-		Phone Number: <a href="tel:+1 717-848-1674">717-848-1674</a>
+		Phone Number: <a href="tel:+1 717-848-1674" >717-848-1674</a>
 	</p>
 	<h2>Directions</h2>
 	<iframe
@@ -20,6 +20,7 @@
 		allowfullscreen=""
 		loading="lazy"
 		referrerpolicy="no-referrer-when-downgrade"
+		title="Map of Our Daily Bread"
 	/>
 </PageLayout>
 

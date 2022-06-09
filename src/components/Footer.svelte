@@ -1,19 +1,19 @@
 <div class="footer">
 	<div>
 		<div>
-			<h2>Our Daily Bread</h2>
+			<h3>Our Daily Bread</h3>
 			<div class="footerLinks">
 				<p>📧 <a href="mailto:ourdailybreadyork@gmail.com">ourdailybreadyork@gmail.com</a></p>
 				<p>📞 <a href="tel:+1 717-848-1674">717-848-1674</a></p>
-				<p><a href="https://facebook.com/ourdailybread/">facebook.com/ourdailybread</a></p>
+				<p>Visit us on our <a href="https://www.facebook.com/ourdailybreadyork">Facebook page</a>!</p>
 				<p>331 S George St, York, PA 17401</p>
 			</div>
 		</div>
 		<div style="text-align: right;">
 			<p>
-				<img src="/favicon.png" style="width: 100px; height: 100px;" alt="" />
+				<img src="/favicon.png" style="width: 80px; height: 80px;" alt="" />
 			</p>
-			<p>Website built by Ridge Students at Ridge Gives Back</p>
+			<p>Built by Students at <br>Ridge High School</p>
 		</div>
 	</div>
 </div>
