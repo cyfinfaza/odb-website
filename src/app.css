@@ -52,3 +52,15 @@ img {
 a {
 	color: inherit;
 }
+
+button {
+	background-color: var(--accent-bg);
+	border: 0px solid #0004;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: 120ms;
+}
+
+button:hover {
+	transform: translateY(-2px);
+}

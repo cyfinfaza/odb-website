@@ -26,7 +26,7 @@
 	<p>
 		We take online donations via facebook. Click below to donate!</p>
 		<p>
-		<input type="button" style="height:34px; width:140px; font-size:16px;" onclick="location.href='https://m.facebook.com/sg/donate_check_out/?fundraiser_id=646512785771210&donate_ref=call_to_action&source_data%5Bsource_name%5D=page_header_cta&source_data%5Bsource_id%5D=646512785771210&source_data%5Bquick_promotion_id%5D&source_data%5Bmsite_source_interface%5D=iphone&is_monthly_subscription=0&deeplink_mode=basic&redirected_for_ios=1&_ft_=ftmd_400706.111111l&_rdr';" value="Donate Online" />
+		<button style="height:34px; width:140px; font-size:16px;" onclick="location.href='https://m.facebook.com/sg/donate_check_out/?fundraiser_id=646512785771210&donate_ref=call_to_action&source_data%5Bsource_name%5D=page_header_cta&source_data%5Bsource_id%5D=646512785771210&source_data%5Bquick_promotion_id%5D&source_data%5Bmsite_source_interface%5D=iphone&is_monthly_subscription=0&deeplink_mode=basic&redirected_for_ios=1&_ft_=ftmd_400706.111111l&_rdr';" >Donate Online</button> 
 	</p>
 	<p>
 		Or if you prefer, you can <strong>send us a check</strong> made out to Our Daily Bread York. 
