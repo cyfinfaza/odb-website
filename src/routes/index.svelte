@@ -30,15 +30,15 @@
 <PageLayout title="Welcome!" image="indexpic.jpg">
 	<h2>What We Do</h2>
 	<p>
-		Our Daily Bread Soup Kitchen serves meals to the residents of York, Pennsylvania. We are a
-		small, family-run organization that relies on donations of food and time from individuals and
-		businesses around York County. We serve breakfast and lunch, Monday through Friday. We make it a
-		point to not discriminate against anyone who comes in to eat; all are welcome to a hot meal!
+		Our Daily Bread Soup Kitchen serves meals to the residents of York, Pennsylvania. We are a small
+		nonprofit organization that relies on donations of food and time from individuals and businesses
+		around York County. We serve breakfast and lunch, Monday through Friday. We make it a point to
+		not discriminate against anyone who comes in to eat; all are welcome to a hot meal!
 	</p>
 
 	<h2>Gallery</h2>
 	<svelte:component this={Carousel} bind:this={carousel} class="carousel" autoplay>
-		{#each ['IMG_2049.jpg', 'ODBVolunteer7-1.jpeg', 'IMG_1952.jpg', 'IMG_1962.jpg', 'IMG_1999.jpg', 'IMG_2007.jpg', 'IMG_1978.jpg',  'IMG_1967.jpg', 'IMG_2033.jpg', '2022-06-02 13.08.57.jpg', '2022-06-02 13.09.02.jpg', 'IMG_1987.jpg', 'IMG_1990.jpg', 'IMG_1999.jpg'] as image}
+		{#each ['IMG_2049.jpg', 'ODBVolunteer7-1.jpeg', 'IMG_1952.jpg', 'IMG_1962.jpg', 'IMG_1999.jpg', 'IMG_2007.jpg', 'IMG_1978.jpg', 'IMG_1967.jpg', 'IMG_2033.jpg', '2022-06-02 13.08.57.jpg', '2022-06-02 13.09.02.jpg', 'IMG_1987.jpg', 'IMG_1990.jpg', 'IMG_1999.jpg'] as image}
 			<img src={'images/' + image} alt="" class="carouselImg" />
 		{/each}
 	</svelte:component>
