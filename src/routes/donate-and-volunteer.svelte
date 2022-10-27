@@ -19,7 +19,8 @@
 	<h2>Food Donations</h2>
 	<p>
 		Individual donations of desserts, produce, or nonperishable goods can be dropped off at <br
-		/>331 S George St, York, PA 17401.
+		/>331 S George St<br>
+		York, PA 17401.
 	</p>
 	<p>If you have a casserole or other transportable goods, please give us a call (717-848-1674)!</p>
 	<h2>Monetary Donations</h2>
@@ -32,7 +33,9 @@
 		>
 	</p>
 	<p>
-		Or if you prefer, you can <strong>send us a check</strong> made out to Our Daily Bread York.
+		Or if you prefer, you can <strong>send us a check</strong> made out to Our Daily Bread York.<br>
+		PO BOX 548 <br>
+		York, PA 17405
 	</p>
 	<p>Just <strong> $50 can provide 25 meals! </strong></p>
 	<p>We thank you for your support and generosity!</p>
