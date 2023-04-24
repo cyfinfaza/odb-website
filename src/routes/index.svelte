@@ -25,21 +25,16 @@
 
 <svelte:head>
 	<title>Our Daily Bread</title>
-	<script defer src="https://givegab.s3.amazonaws.com/donation-widget/givegab-button.js">
-	</script>
 </svelte:head>
 
 <PageLayout title="Welcome!" image="IMG-7654.jpg">
 	<h2>What We Do</h2>
 
 	<h4>
-		Give Local York is coming! On May 4th and 5th,  join our campaign and help us reach our goal of $9,000 through Give Local York's Day of Giving.
+		Give Local York is coming! On May 4th and 5th, join our campaign and help us reach our goal of
+		$9,000 through Give Local York's Day of Giving.
 	</h4>
-	<a
-			class="button donateButton"
-			href="/givegab-donate.html"
-			>Donate Now
-	</a>
+	<a class="button donateButton" href="/givegab-donate.html">Donate Now </a>
 	<p>
 		Our Daily Bread Soup Kitchen serves meals to the residents of York, Pennsylvania. We are a small
 		nonprofit organization that relies on donations of food and time from individuals and businesses
