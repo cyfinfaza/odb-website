@@ -25,7 +25,7 @@
 
 <svelte:head>
 	<title>Our Daily Bread</title>
-	<script defer src="http://givegab.s3.amazonaws.com/donation-widget/givegab-button.js">
+	<script defer src="https://givegab.s3.amazonaws.com/donation-widget/givegab-button.js">
 	</script>
 </svelte:head>
 
