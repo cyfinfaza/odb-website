@@ -34,7 +34,7 @@
 		Give Local York is coming! On May 4th and 5th, join our campaign and help us reach our goal of
 		$9,000 through Give Local York's Day of Giving.
 	</h4>
-	<a class="button donateButton" href="/givegab-donate/">Donate Now </a>
+	<a class="button donateButton" href="/givegab-donate/index.html">Donate Now </a>
 	<p>
 		Our Daily Bread Soup Kitchen serves meals to the residents of York, Pennsylvania. We are a small
 		nonprofit organization that relies on donations of food and time from individuals and businesses
