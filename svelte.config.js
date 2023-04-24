@@ -3,16 +3,16 @@ import adapter from '@sveltejs/adapter-auto';
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: adapter(),
+		adapter: adapter()
 		// prerender: {
 		// 	default: true
 		// },
-		vite: { optimizeDeps: { include: ['lodash.get', 'lodash.isequal', 'lodash.clonedeep'] } },
+		// vite: { optimizeDeps: { include: ['lodash.get', 'lodash.isequal', 'lodash.clonedeep'] } },
 
 		// Override http methods in the Todo forms
-		methodOverride: {
-			allowed: ['PATCH', 'DELETE']
-		}
+		// methodOverride: {
+		// 	allowed: ['PATCH', 'DELETE']
+		// }
 	}
 };
 
