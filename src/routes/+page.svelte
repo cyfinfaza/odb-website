@@ -30,17 +30,29 @@
 <PageLayout title="Welcome!" image="IMG-7654.jpg">
 	<h2>What We Do</h2>
 
-	<h4>
+	<!-- What we did for giving local york in may 2023 -->
+	<!-- <h4>
 		Give Local York is coming! On May 4th and 5th, join our campaign and help us reach our goal of
 		$9,000 through Give Local York's Day of Giving.
 	</h4>
-	<a class="button donateButton" href="/givegab-donate.html">Donate Now </a>
-	<p>
+	<a class="button donateButton" href="/givegab-donate.html">Donate Now </a> -->
+	<p> 
 		Our Daily Bread Soup Kitchen serves meals to the residents of York, Pennsylvania. We are a small
 		nonprofit organization that relies on donations of food and time from individuals and businesses
 		around York County. We serve breakfast and lunch, Monday through Friday. We make it a point to
 		not discriminate against anyone who comes in to eat; all are welcome to a hot meal!
 	</p>
+
+	<h2>List of donation needs:</h2>
+
+	<ul>
+		<li>Fruit (cantaloupe, watermelon, blueberries, bananas)</li>
+		<li>Bagged cereal</li>
+		<li>Coffee</li>
+		<li>Tea bags</li>
+		<li>Napkins</li>
+		<li>Sugar</li>
+	  </ul>
 
 	<h2>Gallery</h2>
 	<svelte:component this={Carousel} bind:this={carousel} class="carousel" autoplay>
