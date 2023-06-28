@@ -21,6 +21,9 @@
 	setTimeout(() => {
 		odoValue = Math.floor(Math.random() * 1000000);
 	}, 2000);
+
+	const carouselImages = ['IMG_2049.jpg', 'ODBVolunteer7-1.jpeg', 'IMG_1952.jpg', 'IMG_1962.jpg', 'IMG_1999.jpg', 'IMG_2007.jpg', 'IMG_1978.jpg', 'IMG_1967.jpg', 'IMG_2033.jpg', '2022-06-02 13.08.57.jpg', '2022-06-02 13.09.02.jpg', 'IMG_1987.jpg', 'IMG_1990.jpg', 'IMG_1999.jpg'];
+	let carouselImageModes = carouselImages.map(img=>"lazy");
 </script>
 
 <svelte:head>
@@ -56,8 +59,17 @@
 
 	<h2>Gallery</h2>
 	<svelte:component this={Carousel} bind:this={carousel} class="carousel" autoplay>
-		{#each ['IMG_2049.jpg', 'ODBVolunteer7-1.jpeg', 'IMG_1952.jpg', 'IMG_1962.jpg', 'IMG_1999.jpg', 'IMG_2007.jpg', 'IMG_1978.jpg', 'IMG_1967.jpg', 'IMG_2033.jpg', '2022-06-02 13.08.57.jpg', '2022-06-02 13.09.02.jpg', 'IMG_1987.jpg', 'IMG_1990.jpg', 'IMG_1999.jpg'] as image}
-			<img src={'images/' + image} alt="" class="carouselImg" />
+		{#each carouselImages as image, index}
+			<img src={'images/' + image} alt="" class="carouselImg" loading={carouselImageModes[index]} on:load={e=>{
+				const imageElement = e.target
+				const localInterval = setInterval(()=>{
+					if (imageElement.complete) {
+						carouselImageModes[(index+1)%carouselImages.length] = "eager";
+						console.log("loaded carousel image", index)
+						clearInterval(localInterval);
+					}
+				}, 1000)
+			}} />
 		{/each}
 	</svelte:component>
 	<!-- <Odo value={odoValue} nrDigits="3" dure="200" />
