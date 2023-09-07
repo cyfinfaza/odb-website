@@ -46,15 +46,17 @@
 		not discriminate against anyone who comes in to eat; all are welcome to a hot meal!
 	</p>
 
+	<img src="/images/ODB 40 Years.jpg" alt="" />
+
 	<h2>List of donation needs:</h2>
 
 	<ul>
-		<li>Fruit (cantaloupe, watermelon, blueberries, bananas)</li>
-		<li>Bagged cereal</li>
-		<li>Coffee</li>
-		<li>Tea bags</li>
+		<li>Ritz crackers</li>
 		<li>Napkins</li>
-		<li>Sugar</li>
+		<li>Ground coffee</li>
+		<li>Tea bags (black tea)</li>
+		<li>Ketchup</li>
+		<li>Hot Sauce</li>
 	  </ul>
 
 	<h2>Gallery</h2>
