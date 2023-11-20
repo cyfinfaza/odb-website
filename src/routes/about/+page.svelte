@@ -34,17 +34,17 @@
 		<li>Bethany United Methodist Church</li>
 		<li>Bethany United Methodist Church (Red Lion)</li>
 		<li>Bethlehem United Methodist Church </li>
-		<li>Bethlehem United Methodist Church (Dallastown)</li>
+		<li>Bethlehem Life Church (Dallastown)</li>
 		<li>Calvary United Methodist Church</li>
+		<li>Canadochly Lutheran Church</li>
 		<li>Calvary United Presbyterian Church</li>
 		<li>Christ Lutheran Church (Dallastown)</li>
 		<li>Christ Lutheran Church (Manchester)</li>
 		<li>Christ Lutheran Church (York)</li>
-		<li>Cross Roads United Methodist Church</li>
 		<li>Eastminster Presbyterian Church</li>
 		<li>Emmanuel United Church of Christ (Red Lion)</li>
 		<li>Faith United Church of Christ</li>
-		<li>Fawn Grove United Methodist Church</li>
+		<li>Fawn Grove Community Church</li>
 		<li>First Church of the Brethren</li>
 		<li>First Presbyterian Church</li>
 		<li>Good Shepherd Lutheran Church</li>
@@ -54,16 +54,15 @@
 		<li>Jewish Family Services</li>
 		<li>Living Word Community Church</li>
 		<li>Locust Street United Methodist Church (Wrightsville)</li>
-		<li>New Bethel United Methodist Church </li>
+		<li>Mt. Zion United Church of Christ</li>
 		<li>Sacred Heart of Jesus Catholic Church</li>
+		<li>Salem Lutheran Church of Jacobus</li>
 		<li>Salem United Church of Christ</li>
 		<li>Shiloh United Church of Christ</li>
 		<li>St. Andrew's Episcopal Church</li>
-		<li>St. James' Lutheran Church</li>
 		<li>St. John's Episcopal Church</li>
 		<li>St. Joseph Catholic Church (Dallastown)</li>
 		<li>St. Joseph Catholic Church (York)</li>
-		<li>St. Luke's United Methodist Church</li>
 		<li>St. Mary’s Catholic Church</li>
 		<li>St. Patrick Catholic Church</li>
 		<li>St. Paul’s Lutheran Church</li>
@@ -72,12 +71,13 @@
 		<li>St. Peter's (Lischey’s) United Church of Christ</li>
 		<li>St. Peter's United Church of Christ (Seven Valleys)</li>
 		<li>St. Rose of Lima Catholic Church</li>
+		<li>Stewartstown United Church of Christ</li>
+		<li>Stoverstown United Church of Christ</li>
 		<li>Starview United Church of Christ </li>
 		<li>Temple Beth Israel</li>
 		<li>Trinity Lutheran Church (Wrightsville)</li>
 		<li>Trinity United Church of Christ</li>
 		<li>Unitarian Universalist Congregation of York</li>
-		<li>Westminster Presbyterian Church</li>
 		<li>Women's Friendship Club</li>
 		<li>Yorkshire United Methodist Church</li>
 		<li>Zion United Methodist Church</li>
