@@ -51,8 +51,7 @@
 	<h2>List of donation needs:</h2>
 
 	<ul>
-		<li>Ritz crackers</li>
-		<li>Napkins</li>
+		<li>Sugar</li>
 		<li>Ground coffee</li>
 		<li>Tea bags (black tea)</li>
 		<li>Ketchup</li>
