@@ -62,7 +62,7 @@ button,
 	transition: 120ms;
 	display: inline-block;
 	text-decoration: none;
-	gap: 15px;
+	margin-right: 15px;  
 }
 
 button:hover,
