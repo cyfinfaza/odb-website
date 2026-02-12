@@ -24,7 +24,7 @@
 	</p>
 	<p>If you have a casserole or other transportable goods, please give us a call (717-848-1674)!</p>
 	<h2>Monetary Donations</h2>
-	<p>We take online donations via facebook. Click below to donate!</p>
+	<p>We are happy to accept monetary donations. Click below to donate online!</p>
 	<p>
 		<a
 			class="button donateButton"
