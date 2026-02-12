@@ -58,6 +58,9 @@
 		<li>Hot Sauce</li>
 	  </ul>
 
+	<h2>Donate Online</h2>
+	<h4>We now take donations through <a href="https://www.paypal.com/donate/?hosted_button_id=EBWCUCQWWVQW8">PayPal</a></h4>
+
 	<h2>Gallery</h2>
 	<svelte:component this={Carousel} bind:this={carousel} class="carousel" autoplay>
 		{#each carouselImages as image, index}
