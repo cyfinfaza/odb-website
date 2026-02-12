@@ -29,8 +29,11 @@
 		<a
 			class="button donateButton"
 			href="https://www.facebook.com/ourdailybreadyork"
-			>Donate Online</a
-		>
+			>Donate on Facebook</a>
+      <a
+			class="button donateButton"
+			href="https://www.paypal.com/donate/?hosted_button_id=EBWCUCQWWVQW8"
+			>Donate on PayPal</a>
 	</p>
 	<p>
 		Or if you prefer, you can <strong>send us a check</strong> made out to Our Daily Bread York.<br>
