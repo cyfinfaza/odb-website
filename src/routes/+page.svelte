@@ -46,8 +46,9 @@
 		not discriminate against anyone who comes in to eat; all are welcome to a hot meal!
 	</p>
 
-	<img src="/images/ODB 40 Years.jpg" alt="" />
+	<img src="/images/ODB 40 Years.jpg" alt="Commemorative banner marking 40 years of service at Our Daily Bread soup kitchen in York Pennsylvania" />
 
+	<div class="donateCard">
 	<h2>List of donation needs:</h2>
 
 	<ul>
@@ -57,10 +58,31 @@
 		<li>Ketchup</li>
 		<li>Hot Sauce</li>
 	  </ul>
+</div>
+	<div class="donateCard">
+		<h2>Donate Online</h2>
+		<h4>We now take donations through <a href="https://www.paypal.com/donate/?hosted_button_id=EBWCUCQWWVQW8">PayPal</a>!</h4>
+	</div>
+<div class="donateCard">
+	<h2>News</h2>
+	<section class="thankYouFeature">
+	<div class="thankYouText">
+		<p>
+			Thank you so much to Kimberly and the Reworld Waste team for collecting Gatorade and
+			Propel Fitness Water to help our patrons stay hydrated through the summer! The team
+			brought 40 cases of electrolyte drinks to Our Daily Bread—the stack is taller than Paula!!
+		</p>
 
-	<h2>Donate Online</h2>
-	<h4>We now take donations through <a href="https://www.paypal.com/donate/?hosted_button_id=EBWCUCQWWVQW8">PayPal</a>!</h4>
+		<p>We are so grateful to you, friends!</p>
+	</div>
 
+	<div class="thankYouImages">
+		<img src={"images/IMG_4651.jpeg"} class="thankYouImage" alt="Reworld Waste team members delivering cases of donated sports drinks to soup kitchen volunteers" />
+		<img src={"images/IMG_4652.jpeg"} class="thankYouImage" alt="Stacks of donated Gatorade and Propel fitness water bottles arranged in the soup kitchen storage area" />
+		<img src={"images/IMG_4653.jpeg"} class="thankYouImage" alt="Volunteers at Our Daily Bread standing beside donated beverage cases with appreciation" />
+	</div>
+</section>
+</div>
 	
 	<svelte:component this={Carousel} bind:this={carousel} class="carousel" autoplay>
 		{#each carouselImages as image, index}
@@ -87,7 +109,57 @@
 		object-fit: cover;
 	}
 
+	.donateCard {
+		background: linear-gradient(135deg, #fff8ec 0%, #fff1d6 100%);
+		border: 1px solid #f0d6a3;
+		border-radius: 16px;
+		box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+		padding: 1.5rem;
+		margin: 2rem 0;
+	}
+
+	.donateCard h2 {
+		margin-top: 0;
+		color: #000000;
+	}
+
+	.donateCard h4 {
+		margin: 0.5rem 0 0;
+		font-weight: 500;
+		line-height: 1.5;
+	}
+
+	.donateCard a {
+		color: #000000;
+		text-decoration: underline;
+	}
+
 	.donateButton {
 		padding: 4px 10px;
 	}
+
+.thankYouFeature {
+	margin: 2rem 0;
+}
+
+.thankYouImage {
+	display: block;
+	width: 100%;
+	max-width: 700px;
+	margin: 1rem auto;
+	border-radius: 8px;
+}
+
+.thankYouImages img {
+	width: 100%;
+	height: auto;
+	border-radius: 8px;
+	display: block;
+}
+
+@media (max-width: 700px) {
+	.thankYouImages {
+		grid-template-columns: 1fr;
+	}
+}
 </style>
